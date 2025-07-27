@@ -3,7 +3,7 @@
 A responsive weather application built with **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using the [cb5c9a3bc8548c710bf98a2aa92dbbc7](https://openweathermap.org/api). Users can search any city and get current weather details like temperature, humidity, wind speed, and weather condition icon.
 
 ---
-🌐 [Live Demo](https://your-vercel-link-here.vercel.app)
+🌐 [Live Demo](https://weather-app-mauve-delta-57.vercel.app/)
 
 🖼️ ![App Screenshot](images/display.png)
 
