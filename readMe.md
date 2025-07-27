@@ -4,6 +4,7 @@ A responsive weather application built with **HTML**, **CSS**, and **JavaScript*
 
 ---
 🌐 [Live Demo](https://your-vercel-link-here.vercel.app)
+
 🖼️ ![App Screenshot](images/display.png)
 
 ---
